@@ -1,4 +1,4 @@
-# OmniRetail Customer Satisfaction & Loyalty Analytics Report (Power BI)
+# OmniRetail Customer Satisfaction & Loyalty Analytics Report
 
 ## 📊 Overview
 
