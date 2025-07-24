@@ -16,6 +16,7 @@ The goal: to identify the key drivers of satisfaction and loyalty across differe
 - **Map**: Regional satisfaction trends by city
 - **Bar Chart**: Satisfaction factor frequency
 - **Multirow Cards**: Total customers, Avg Sat Score, High Loyalty %, Repeat Purchase %, Support Contacted %, Avg Age
+<img width="1287" height="725" alt="Screenshot_5" src="https://github.com/user-attachments/assets/c161cfd3-0694-4650-8fd1-ca74f8e51199" />
 
 ### 📄 **Page 2: Demographic & Segment Analysis**
 - **Column/Line Chart**: Avg Satisfaction and Number of Customers by Age Group
@@ -23,12 +24,14 @@ The goal: to identify the key drivers of satisfaction and loyalty across differe
 - **Ribbon Chart**: Customer distribution by location and loyalty level
 - **100% Stacked Bar**: Group-wise breakdown of satisfaction drivers
 - **Multirow Cards**: Segment-level KPIs
+<img width="1287" height="725" alt="Screenshot_6" src="https://github.com/user-attachments/assets/b35dd809-0821-4f02-aa87-51654ab39ad5" />
 
 ### 📄 **Page 3: Support & Loyalty Impact**
 - **Stacked Column**: Purchase history impact on satisfaction score bands
 - **Stacked Column**: Loyalty level by support contact
 - **Scatter Plot**: Avg Satisfaction vs Avg Loyalty by satisfaction factor (drill-down to location)
 - **Matrix**: Detailed customer breakdown by Age, Gender, Loyalty, Location, Purchase history, Support contacted, Satisfaction factor
+![Uploading Screenshot_7.png…]()
 
 ---
 
@@ -66,12 +69,12 @@ This report enables OmniRetail's leadership to:
 ---
 
 ## 🔗 Demo & File Access
-- 📊 [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzU2OGIyMDgtMzdkYS00NWNhLWI2NjUtZDM3MDQ0ZWM1NGVhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9) *(Optional Power BI service link)*
-- [Check Post on linkedin](https://www.linkedin.com/posts/emmanuel-idowu-analyst_powerbi-customerexperience-dataanalytics-activity-7354232739165880322-uPWe) 
+- 📊 [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzU2OGIyMDgtMzdkYS00NWNhLWI2NjUtZDM3MDQ0ZWM1NGVhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+- 📊 [Check Post on linkedin](https://www.linkedin.com/posts/emmanuel-idowu-analyst_powerbi-customerexperience-dataanalytics-activity-7354232739165880322-uPWe) 
 ---
 
 ## 💬 Let's Connect!
-For collaborations or questions, feel free to [message me on LinkedIn](#) or raise an issue in this repo.
+For collaborations or questions, feel free to [message me on LinkedIn](https://www.linkedin.com/in/emmanuel-idowu-analyst/) or raise an issue in this repo.
 
 ---
 
